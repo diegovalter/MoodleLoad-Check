@@ -4,7 +4,8 @@
   "description": "",
   "main": "loadmoodle.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "k6": "k6 run loadmoodle.js"
   },
   "keywords": [],
   "author": "",

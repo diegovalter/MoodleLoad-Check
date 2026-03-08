@@ -20,7 +20,7 @@ export default function () {
     res = http.post('https://school.moodledemo.net/login/index.php', {
         username: 'teacher',
         password: 'moodle25',
-        logintoken: logintoken, // O segredo está aqui!
+        logintoken: logintoken,
     });
 
     check(res, {
