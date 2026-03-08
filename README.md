@@ -22,9 +22,9 @@ Este projeto simula o fluxo real de um usuário dentro da plataforma:
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Engine**: k6.
+* **Engine**: `k6`.
 * **Ambiente**: Node.js.
-* **Relatórios**: k6-reporter para visualização de métricas e KPIs..
+* **Relatórios**: `k6-reporter` para visualização de métricas e KPIs.
 
 ---
 
